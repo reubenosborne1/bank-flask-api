@@ -17,5 +17,5 @@ The file contians the following data:
 - If the user requests an account that does not exist, the api should return an error message.
 - If the user tries to deposit £0 or less, the api should return an error message.
 - If the user tries to withdraw more than the accounts balance , the api should return an error message.
-- All testing should be done through 127.0.0.1 port 5000. 
+- Access should be through localhost (127.0.0.1) port 5000. 
 - No tests required. 
